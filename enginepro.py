@@ -1,8 +1,8 @@
 import chess
 import chess.engine
 
-# Chemin vers le moteur Stockfish (à adapter selon votre système)
-
+# Chemin vers le moteur Stockfish que jvais programmer
+# IL est dur ce truc
 
 def configure_ai(engine_path, elo):
     """
@@ -16,8 +16,8 @@ def configure_ai(engine_path, elo):
     if "UCI_LimitStrength" in engine.options:
         engine.configure({
         "UCI_LimitStrength": True, "UCI_Elo": elo,
-        "Skill Level": 20,  # Niveau maximal
-        "Hash": 1024,       # Table de hachage de 1024 Mo, 
+        "Skill Level": 20,  # max
+        "Hash": 1024,       # hash de 1024 Mo, 
         "Threads": 4
         })
 

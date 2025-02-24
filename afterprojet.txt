@@ -1,0 +1,12 @@
+Merci d'avoir Installé cette ia Échéquéenne. 
+Partagez La entre vous, ca fait rien puis-ce-que je gagne rien dedant,
+juste quelques neurones en moins,
+Amusez-vous avec SK Engine Pro (Il vous prends)
+Je lais fait En Python, ISS et .lonc
+Pour pouvoir reutiliser le projet (Le recoder),
+Il faut déja installer l'utilitaire AISTOCKFIsH :https://stockfishchess.org/download/
+etvoila tt mes codes sur gitHub, il yaura toutes les infos néssécaires :
+https://github.com/nassityoussouf/Engine-Pro
+Au plaisir de vous revoir, Mais je vous voit encore
+
+Nassit 
